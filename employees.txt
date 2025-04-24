@@ -3,3 +3,7 @@ Dwight - salesman
 pam - receptionist 
 michael - manager
 oscar - accountant
+Toby - Human Resources
+Sam - Software Engineer
+Toby - Human Resources
+Sam - Software Engineer
